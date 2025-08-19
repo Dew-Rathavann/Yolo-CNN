@@ -1,0 +1,7 @@
+{
+  "overall_acc": 0.9984387197501952,
+  "overall_precision": 0.9986253879158119,
+  "overall_recall": 0.9984663633857181,
+  "overall_f1": 0.9985410171017199,
+  "best_epoch": 19
+}
